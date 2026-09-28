@@ -1,0 +1,19 @@
+# macOS
+.DS_Store
+._*
+.Spotlight-V100
+.Trashes
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Archivos temporales de Office
+~$*
+*.tmp
+
+# Carpeta de descarte: revisar y borrar a mano, no se publica
+_to_delete/
+
+# Renders intermedios
+*.pdf.tmp
